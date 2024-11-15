@@ -1,7 +1,8 @@
 apiVersion: v2
 name: External Secrets Operator
 version: "0" # TODO Maybe add a version and update it automatically using the semantic-release plugin
-description: TODO # TODO Add a description
+description: Helm chart to deploy the External Secrets Operator using the Schrödinger's Stack
+home: https://schtack.cloud
 dependencies:
 - name: external-secrets
   repository: https://charts.external-secrets.io
