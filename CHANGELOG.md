@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.1](https://github.com/schrodingers-stack/helm-external-secrets/compare/v0.1.0...v0.1.1) (2024-12-13)
+
+
+### Miscellaneous Chores
+
+* **deps:** update helm release external-secrets to v0.11.0 ([#6](https://github.com/schrodingers-stack/helm-external-secrets/issues/6)) ([8f7fb72](https://github.com/schrodingers-stack/helm-external-secrets/commit/8f7fb724e76734633751e46b13fee58b455aaee9))
+
+
+### Continuous Integration
+
+* add config to enable Renovate ([7bd11d0](https://github.com/schrodingers-stack/helm-external-secrets/commit/7bd11d087c9fe02cb7be280a0a84741155e878a4))
+
 ## 0.1.0 (2024-11-21)
 
 
