@@ -1,6 +1,6 @@
 apiVersion: v2
 name: External Secrets Operator
-version: 0.1.0
+version: 0.1.1
 description: >-
   Helm chart to deploy the External Secrets Operator using the Schrödinger's
   Stack
